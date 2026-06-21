@@ -1,0 +1,17 @@
+Integers:
+a + b = 13
+a - b = 7
+a * b = 30
+a / b = 3.3333333333333335
+a % b = 1
+
+Floats:
+x + y = 9.5
+x - y = 5.5
+x * y = 15.0
+x / y = 3.75
+x % y = 1.5
+
+Strings:
+Concatenation: Hello World
+Repetition: Hello Hello 

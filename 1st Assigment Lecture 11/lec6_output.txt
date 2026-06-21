@@ -1,0 +1,5 @@
+Enter your name: Alex
+Enter your age: 21
+Enter your GPA: 3.8
+
+Hello Alex, your age is 21 and your GPA is 3.8
