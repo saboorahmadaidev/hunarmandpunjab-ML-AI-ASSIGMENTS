@@ -1,0 +1,11 @@
+Sample run (no inputs):
+List: ['apple', 'banana', 'cherry']
+After append: ['apple', 'banana', 'cherry', 'date']
+After remove: ['apple', 'cherry', 'date']
+Tuple: (1, 2, 3)
+Union: {1, 2, 3, 4, 5}
+Intersection: {3}
+Difference: {1, 2}
+Student: {'name': 'Sara', 'age': 20, 'grade': 'A'}
+Updated grade: A+
+Students after delete: []

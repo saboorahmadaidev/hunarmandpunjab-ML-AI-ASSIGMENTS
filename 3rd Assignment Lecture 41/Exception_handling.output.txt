@@ -1,0 +1,4 @@
+Sample run (no inputs):
+An error occurred: list index out of range
+
+(An entry is appended into `error_log.txt` with traceback.)

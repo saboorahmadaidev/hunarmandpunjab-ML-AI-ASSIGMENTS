@@ -1,0 +1,28 @@
+Sample run (inputs shown in brackets):
+Enter integer: 5
+Positive
+Enter marks (0-100): 78
+Grade B
+
+For loop 1-10:
+1 2 3 4 5 6 7 8 9 10 
+
+While loop evens:
+2 4 6 8 10 
+
+Break & Continue:
+1
+2
+3
+4
+Skipping 5
+6
+7
+Stopping at 8
+
+Multiplication table:
+1x1=1	1x2=2	1x3=3	1x4=4	1x5=5	
+2x1=2	2x2=4	2x3=6	2x4=8	2x5=10	
+3x1=3	3x2=6	3x3=9	3x4=12	3x5=15	
+4x1=4	4x2=8	4x3=12	4x4=16	4x5=20	
+5x1=5	5x2=10	5x3=15	5x4=20	5x5=25	

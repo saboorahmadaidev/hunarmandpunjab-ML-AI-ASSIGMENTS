@@ -1,0 +1,5 @@
+Sample run (input shown in brackets):
+Enter a number: 0
+Cannot divide by zero
+
+(If input is non-integer, output would be: 'Invalid integer')

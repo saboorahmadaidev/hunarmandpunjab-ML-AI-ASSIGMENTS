@@ -1,0 +1,3 @@
+Sample run (demo calls inside file):
+{'name': 'Ahmed', 'marks': 90, 'grade': 'A'}
+{'name': 'Nadia', 'marks': 67, 'grade': 'B'}
